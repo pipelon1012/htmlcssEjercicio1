@@ -1,0 +1,27 @@
+1-Le damos en el boton "new".
+2-Le doy el nombre al repositorio.
+3-Recomendable public.
+4-le doy al boton "Crear repositorio".
+5-En vscode en la terminal de git, le doy "git init".
+6-Copio la sexta linea de github o la url del proyecto,
+y la pego en vscode para vincular el proyecto local con
+github.
+7-Le doy el comando "git status", para ver el estado de los
+archivos, aparecen en rojo.
+8-Le damos el comando "git add ." para adicionar los archivos.
+9-Si le damos "git status", ya aparecen los archivos en verde.
+10-Le damos el comando "git commit -m "comentario" ".
+11-le volvemos a dar "git status" para ver que todo este bien.
+12-le doy el comando "git push" para subir los archivos.
+13-la primer vez sale un error, solo copio 
+"git push --set-upstream origin master" y lo pego y listo.
+
+Nota
+Si le hago un nuevo cambio al proyecto, solo le doy
+-git status
+-git add .
+-git commit -m "Descripcion de los cambios".
+-git push.
+
+link del video
+https://www.youtube.com/watch?v=44ziZ12rJwU&ab_channel=Developeando
